@@ -3,8 +3,8 @@ Dumb tg bot for greeting new user
 
 ## Getting started
 
-  First, we need to configure the bot
-      create env file (.env), in this file write TOKET_TG_BOT = "Past YOUR TOKEN" don't forget to save this file
+First, we need to configure the bot
+* create env file (.env), in this file write TOKET_TG_BOT = "Past YOUR TOKEN" don't forget to save this file
 
 Start bot
 ```bash
